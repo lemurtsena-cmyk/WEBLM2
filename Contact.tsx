@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, MessageCircle } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '+261346426146/337326406';
+const WHATSAPP_NUMBER = '+261327867051';
 const WHATSAPP_URL = `https://wa.me/261327867051?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
 const MAPS_URL = 'https://maps.app.goo.gl/QE2fLJJs491LqYW17';
 
@@ -56,8 +56,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold mb-1">Téléphone</div>
-                    <a href={`tel:+${WHATSAPP_NUMBER}`} className="text-white/70 hover:text-accent transition-colors text-sm">
-                      +261 34 00 000 00
+                    <a href={`tel:+261327867051`} className="text-white/70 hover:text-accent transition-colors text-sm">
+                      +261 34 64 261 46 / 33 73 264 06
                     </a>
                   </div>
                 </div>
@@ -84,8 +84,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold mb-1">Email</div>
-                    <a href="mailto:contact@lemurtsena.mg" className="text-white/70 hover:text-accent transition-colors text-sm">
-                      contact@lemurtsena.mg
+                    <a href="mailto:lemurtsena@gmail.com" className="text-white/70 hover:text-accent transition-colors text-sm">
+                      lemurtsena@gmail.com
                     </a>
                   </div>
                 </div>
