@@ -154,14 +154,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={16} className="text-accent flex-shrink-0" />
-                <a href="tel:+261340000000" className="text-white/60 hover:text-accent transition-colors text-sm">
-                  +261 34 00 000 00
+                <a href="tel:+261346426146/337326406" className="text-white/60 hover:text-accent transition-colors text-sm">
+                  +261 34 64 261 46
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={16} className="text-accent flex-shrink-0" />
-                <a href="mailto:contact@lemurtsena.mg" className="text-white/60 hover:text-accent transition-colors text-sm">
-                  contact@lemurtsena.mg
+                <a href="mailto:lemurtsena@gmail.com" className="text-white/60 hover:text-accent transition-colors text-sm">
+                  lemurtsena@gmail.com
                 </a>
               </li>
             </ul>
