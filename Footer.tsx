@@ -1,7 +1,7 @@
 import { Phone, Mail, MapPin, ArrowUp, Heart } from 'lucide-react';
 import Logo from './Logo';
 
-const WHATSAPP_URL = `https://wa.me/261340000000?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
+const WHATSAPP_URL = `https://wa.me/261327867051?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
 const MAPS_URL = 'https://maps.app.goo.gl/QE2fLJJs491LqYW17';
 
 export default function Footer() {
