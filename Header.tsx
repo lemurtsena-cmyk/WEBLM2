@@ -2,8 +2,8 @@ import { useState, useEffect } from 'react';
 import { Menu, X, Phone, MapPin } from 'lucide-react';
 import Logo from './Logo';
 
-const WHATSAPP_NUMBER = '261340000000';
-const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
+const WHATSAPP_NUMBER = '+261346426146/337326406';
+const WHATSAPP_URL = `https://wa.me/261327867051?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
 const MAPS_URL = 'https://maps.app.goo.gl/QE2fLJJs491LqYW17';
 
 export default function Header() {
