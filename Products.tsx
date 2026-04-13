@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Eye, ArrowRight, Check } from 'lucide-react';
 import { useProducts } from '../context/ProductsContext';
 
-const WHATSAPP_URL = `https://wa.me/261340000000?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
+const WHATSAPP_URL = `https://wa.me/261327867051?text=Bonjour%20Lemur%20Tsena%2C%20je%20souhaite%20un%20devis%20pour%20un%20meuble.`;
 const categories = ['Tous', 'Bureau', 'Rangement', 'Salle à manger', 'Chambre', 'Salon'];
 
 export default function Products() {
