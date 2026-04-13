@@ -27,7 +27,7 @@ const advantages = [
   },
   {
     icon: Award,
-    title: 'Garantie 5 Ans',
+    title: 'S.A.V',
     description: 'Tous nos meubles bénéficient d\'une garantie de 5 ans. Votre satisfaction et la durabilité de nos produits sont notre priorité.',
     color: 'from-[#2D3659] to-[#5BBAD5]',
   },
