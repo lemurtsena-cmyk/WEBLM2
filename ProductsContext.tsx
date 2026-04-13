@@ -16,7 +16,7 @@ const defaultProducts: Product[] = [
     name: 'Bureau Simple',
     category: 'Bureau',
     description: 'Bureau spacieux en mélamine avec structure métallique noire. Design épuré et fonctionnel pour votre espace de travail.',
-    image: '/images/product-bureau.jpg',
+    image: '/images/product-bureau-simple.jpg',
     features: ['Plateau mélamine 18mm', 'Structure acier noir brillant', 'Bord melamine arrondi', 'Mélamine sortie usine'],
     price: 'À partir de 100 000 Ar',
   },
